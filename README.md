@@ -22,4 +22,4 @@ Admin (Lecturers-in-charge)
 🛠️ Tech Stack:
 Frontend: HTML, CSS, JavaScript (React/Bootstrap — if applicable)
 Backend: PHP / Node.js (update based on your stack)
-Database: MySQL
+Database: MySQL"# Residential-College-Ecomplaint" 
