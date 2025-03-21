@@ -23,3 +23,17 @@ Admin (Lecturers-in-charge)
 Frontend: HTML, CSS, JavaScript (React/Bootstrap — if applicable)
 Backend: PHP / Node.js (update based on your stack)
 Database: MySQL"# Residential-College-Ecomplaint" 
+
+Setup & Commands
+✅ XAMPP Setup:
+Download and install XAMPP
+Start Apache and MySQL services
+Create a database in phpMyAdmin
+Import your project’s SQL file
+✅ Flutter Setup (For mobile app development):
+Download and install Flutter SDK from https://flutter.dev
+Add Flutter to your system PATH
+Run flutter doctor to verify the installation
+✅ IDEs Required:
+Visual Studio Code (Recommended for web and Laravel development)
+Android Studio (Required for running and testing Flutter apps on emulator/device)
